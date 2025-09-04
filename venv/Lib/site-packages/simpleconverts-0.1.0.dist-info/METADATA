@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: simpleconverts
+Version: 0.1.0
+Summary: A simple Python package to convert between common units
+Author-email: Coder Edge <coderedgeorg@gmail.com>
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# simpleconverts
+
+**SimpleConverts** est un petit package Python pour **convertir facilement les unités courantes** : distances, masses, températures, volumes, temps et énergie.
+
+## Installation
+```bash
+pip install simpleconverts

@@ -22,7 +22,9 @@ pip install simpleconverts
 ### Installation locale (développement)
 
 ```bash
-pip install simpleconverts
+git clone https://github.com/Coder-Edge/Simpleconverts.git
+cd Simpleconverts
+pip install -e .
 ```
 
 ---
